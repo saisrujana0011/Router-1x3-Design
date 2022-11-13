@@ -1,7 +1,7 @@
 
 /***************************************************************************************************
 
-NAME        :  MOHAMED ANAS MN
+NAME        :  PATHA SAISRUJANA
 FILENAME    :  router_fifo.v
 DATE        :  10/08/2021
 DESCRIPTION :  ROUTER - FIFO design
